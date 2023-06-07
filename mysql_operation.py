@@ -6,7 +6,7 @@ import streamlit as st
 mydb = mysql.connector.connect(
     host="codex-sample-server.mysql.database.azure.com",
     user="huqianghui",
-    password="hqh@163.com2025",
+    password="XXXXX",
     database="codex-sample"
 )
 

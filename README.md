@@ -11,12 +11,11 @@ pip install -r requirements.txt
 ```
 
 ## Interface
-![interace](https://github.com/Ngonie-x/langchain_csv/assets/28601809/0f27a2da-1128-4b23-9d01-b509b55761eb)
+![interace](./images/1.png)
 ---
-![prompt](https://github.com/Ngonie-x/langchain_csv/assets/28601809/9e90ba35-c45e-4ea4-b632-2c9203b373d2)
+![prompt](./images/2.png)
 ---
-![bar graph](https://github.com/Ngonie-x/langchain_csv/assets/28601809/2fb4f9fe-cd6e-46ed-afad-66e8606fca3c)
+![bar graph](./images/3.png)
 ---
-![create a table](https://github.com/Ngonie-x/langchain_csv/assets/28601809/b49c50d2-c12e-43a0-a593-33e508dbf4a6)
+![create a table](./images/4.png)
 ---
-![line chart](https://github.com/Ngonie-x/langchain_csv/assets/28601809/f4e94c50-e505-4f32-a4e4-f0ede5158b3b)

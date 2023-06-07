@@ -1,0 +1,4 @@
+1. which book has the highest rating count?
+2. Create a bar graph on the first 5 books. Use the book titles as the column and the rating count as the data values.
+3. tabulate the first 5 books in the table,including the title and rating count columns only.
+4. Create a line graph on the first books. Use the book titles as the column the rating count as the data values.

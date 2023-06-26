@@ -4,6 +4,8 @@ Repository for the application built in [this](https://dev.to/ngonidzashe/chat-w
 
 视频讲解B站链接地址：https://www.bilibili.com/video/BV1pj411S7RC/
 
+youtube视频链接地址： https://youtu.be/f4HHK-jt_V0
+
 ## Requirements
 
 Install the required packages by running

@@ -2,6 +2,8 @@
 
 Repository for the application built in [this](https://dev.to/ngonidzashe/chat-with-your-csv-visualize-your-data-with-langchain-and-streamlit-ej7) article.
 
+视频讲解B站链接地址：https://www.bilibili.com/video/BV1pj411S7RC/
+
 ## Requirements
 
 Install the required packages by running

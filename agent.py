@@ -13,7 +13,7 @@ import environ
 os.environ["OPENAI_API_TYPE"] = "azure"
 os.environ["OPENAI_API_BASE"] = "https://openaidemo-hu.openai.azure.com/"
 os.environ["OPENAI_API_VERSION"] = "2022-12-01"
-os.environ["OPENAI_API_KEY"] = "a65f52d60c744eb9b141d9939cd4c4b6"
+os.environ["OPENAI_API_KEY"] = "XXXXXXX"
 
 llm = AzureOpenAI(
     deployment_name="text-davinci-003",
